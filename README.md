@@ -1,6 +1,6 @@
 # WisecraneFA Base API
 
-Merupakan base API dari aplikasi WisecraneFA.
+Merupakan base API dari aplikasi WisecraneFA.\
 Machine Learning deploy API bisa diakses pada [Link ini](https://storage.googleapis.com/capstone-ml123/financial_recommendation_model.json).
 
 ## Daftar Isi
@@ -10,7 +10,6 @@ Machine Learning deploy API bisa diakses pada [Link ini](https://storage.googlea
 - [Instalasi](#instalasi)
 - [Konfigurasi Firebase](#konfigurasi-firebase)
 - [Penggunaan](#penggunaan)
-- [Kontribusi](#kontribusi)
 - [Lisensi](#lisensi)
 
 ## Fitur
